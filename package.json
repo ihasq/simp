@@ -1,5 +1,5 @@
 {
-  "name": "simp",
+  "name": "@ihasq/simp",
   "version": "0.0.1",
   "description": "Signals IMProved",
   "main": "src/mod.ts",
